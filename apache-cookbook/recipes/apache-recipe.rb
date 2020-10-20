@@ -9,7 +9,7 @@ package 'httpd' do
 end
 
 file '/var/www/html/index.html' do
-  content "<h1>now iam integrating chef with git<h2/>"
+  content "<h1>now iam integrating chef with git modified<h2/>"
   action :create
 end
 
