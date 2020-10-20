@@ -9,7 +9,7 @@ package 'tree' do
 end
 
 file 'file10' do
-  content 'hello dear students!!!'
+  content 'hello dear students how are you !!!'
   action :create
 end
 
